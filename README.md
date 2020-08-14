@@ -1,5 +1,5 @@
 # caddy_script
-该脚本主要是依赖caddyV1.0.4，但由于官方下载地址源不可用的问题，导致脚本失效；在此做一下小的更新，再次感谢前人ToyoDAdoubi和官方caddy!
+该脚本主要是依赖caddyV1.0.4，但由于官方下载地址源的问题，导致doubi脚本失效；在此做一下小的更新，再次感谢前人ToyoDAdoubi!
 
 
 
